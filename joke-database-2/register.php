@@ -7,10 +7,10 @@ session.start();
 $userName = $_GET['registerName'];
 $userPassword = $_GET['registerPassword'];
 
-$servername = "localhost";
-$username = "root";
-$password = "root";
-$database_name = "jokes-database";
+$servername = "jokes-database";
+$username = "lua70uj935zu8uy6";
+$password = "t0ycwbjc36tdlaps";
+$database_name = "qksehlwgd3n08qf3";
 
 //Create Connection
 $connection = mysqli_connect($servername, $username, $password, $database_name);
