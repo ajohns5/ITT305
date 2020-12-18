@@ -6,7 +6,7 @@ error_reporting(E_ALL);
 $servername = "localhost";
 $username = "lua70uj935zu8uy6";
 $password = "t0ycwbjc36tdlaps";
-$dbname = "joke-database-2";
+$dbname = "jokes-database";
 
 // Create connection
 $connection = mysqli_connect($servername, $username, $password, $dbname);
