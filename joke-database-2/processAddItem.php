@@ -15,10 +15,10 @@ echo "The joke is:<br> " . $jokeText . "<br>";
 echo "The answer is:<br> " . $jokeAnswer . "<br>".
     
     //define variables for local server connection
-$servername = "localhost";
-$username = "root";
-$password = "root";
-$database_name = "jokes-database";
+$servername = "jokes-database";
+$username = "lua70uj935zu8uy6";
+$password = "t0ycwbjc36tdlaps";
+$database_name = "qksehlwgd3n08qf3";
 
 //Create Connection
 $connection = mysqli_connect($servername, $username, $password, $database_name);
