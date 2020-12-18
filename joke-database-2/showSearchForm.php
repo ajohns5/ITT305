@@ -5,7 +5,8 @@
  -->
  
  <div class="form-container">
-
+<form>
+<div>
 <h2>Search for a joke</h2>
 <p>Fill out any of these fields and search</p>
 <form action="searchRecipe.php">
