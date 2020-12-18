@@ -4,8 +4,8 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 $servername = "localhost";
-$username = "root";
-$password = "root";
+$username = "lua70uj935zu8uy6";
+$password = "t0ycwbjc36tdlaps";
 $dbname = "jokes-database";
 
 // Create connection
